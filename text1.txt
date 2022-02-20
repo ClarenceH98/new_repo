@@ -1,3 +1,7 @@
 Hello mates
 
+<<<<<<< HEAD
 more thingys
+=======
+Hey what is going on
+>>>>>>> new_branch
